@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaintOcatvius and I'm here to crack the matrix but first I need to learn how to code.
+- 👋 Hi, I’m @SaintKumbi and I'm here to gro wmy coding skill and collaborate to many projects.
 - 👀 I’m interested in Coding, Artificial Intelligence, and Algorithms.
 - 🌱 I’m currently learning how to code JAVA and C++.
 - 💞️ I’m looking to collaborate on projects and finding solutions. 
